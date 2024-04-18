@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 98px;
+    height: 100v;
+}
+
+h1 {
+    font-family: "Red Rose", serif;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.texts {
+    width: 520px;
+    height: 278px;
+}
+
+.title {
+    margin-bottom: 16px;
+}
+
+ .description {
+    margin-bottom: 52px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-section {
+    width: 520px;
+    height: 330px;
+    margin: 160px 0px 419px 165px ;
+}
+
+p {
+    color: #6F7CB2;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    margin-left: 29px;
+}
+
+button {
+    width: 190px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.index {
+    background-color: #111B47;
+    color: white;
+    margin-left: 56px;
+}
+
+.learn {
+    background-color: white;
+    color: #070F31;
+    margin-right: 152px;
+}
+
+.image {
+    margin: 100px 165px 0px 0px;
+}
+
+img {
+    width: 492px;
+    height: auto;
+}
